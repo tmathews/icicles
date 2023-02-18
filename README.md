@@ -3,7 +3,7 @@
 ![Icicles](./Resources/Assets/graphics/icicles-title.png)
 
 This repository exists for archival & learning purposes only. Icicles is a game
-I wrote in 2009 for iOS when I first got into iOS development. Building and 
+I wrote in 2010 for iOS when I first got into iOS development. Building and 
 compilation is not expected to work. It is more a demonstration of historical 
 work I have done.
 
